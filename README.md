@@ -8,9 +8,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"   />
-
 ###
 
 <div align="left">
