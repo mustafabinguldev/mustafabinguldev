@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! My name is Mustafa</h1>
-<h3>Java enthusiast and aspiring software developer, passionate about building innovative projects and pushing the boundaries of technology. With a strong foundation in Java programming, I am constantly expanding my skill set and exploring new tools and frameworks. When not coding, you can find me play chess. Let's connect and collaborate on exciting projects!"</h3>
+<h3>Java enthusiast and aspiring software developer, passionate about building innovative projects and pushing the boundaries of technology. With a strong foundation in Java programming, I am constantly expanding my skill set and exploring new tools and frameworks. When not coding, you can find me play chess. Let's connect and collaborate on exciting projects!</h3>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
