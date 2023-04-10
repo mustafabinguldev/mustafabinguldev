@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! My name is Mustafa</h1>
-<h3>"Java enthusiast and aspiring software developer, passionate about building innovative projects and pushing the boundaries of technology. With a strong foundation in Java programming, I am constantly expanding my skill set and exploring new tools and frameworks. When not coding, you can find me play chess. Let's connect and collaborate on exciting projects!"</h3>
+<h3>Java enthusiast and aspiring software developer, passionate about building innovative projects and pushing the boundaries of technology. With a strong foundation in Java programming, I am constantly expanding my skill set and exploring new tools and frameworks. When not coding, you can find me play chess. Let's connect and collaborate on exciting projects!"</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=BingulHan" height="150" alt="stats graph"  />
