@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A passionate full stack developer from Turkey</h3>
+<h3 align="center">👋 Hello, I'm Mustafa! 🚀
+🌐 I'm an 18-year-old full-stack developer, passionate about the magic of coding.
+While I'm weaving spells with code in my project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bingulhan&label=Profile%20views&color=0e75b6&style=flat" alt="bingulhan" /> </p>
 
