@@ -1,5 +1,4 @@
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafabinguldev" alt="mustafabinguldev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mustafabinguldev" target="blank"><img src="https://img.shields.io/twitter/follow/bingulhan?logo=twitter&style=for-the-badge" alt="mustafabinguldev" /></a> </p>
 
