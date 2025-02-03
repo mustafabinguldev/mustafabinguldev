@@ -1,17 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">👋 Hello, I'm Mustafa! 🚀
-🌐 I'm an 19-year-old full-stack developer, passionate about the magic of coding.
-While I'm weaving spells with code in my project</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafabinguldev&label=Profile%20views&color=0e75b6&style=flat" alt="mustafabinguldev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafabinguldev" alt="mustafabinguldev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mustafabinguldev" target="blank"><img src="https://img.shields.io/twitter/follow/bingulhan?logo=twitter&style=for-the-badge" alt="mustafabinguldev" /></a> </p>
-
-- 🌱 I’m currently learning **NextJS, Redis**
-
-- 💬 Ask me about **react, spring, mongodb, java, python**
 
 - 📫 How to reach me **bingulhan2005@gmail.com**
 
