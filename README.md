@@ -5,3 +5,6 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/mustafabinguldev/mustafabinguldev/output/github-contribution-grid-snake-dark.svg)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=mustafabinguldev) -->
+
