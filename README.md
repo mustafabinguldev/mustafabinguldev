@@ -4,3 +4,4 @@
 </div>
 
 
+![Snake animation](https://raw.githubusercontent.com/mustafabingldev/mustafabinguldev/output/github-contribution-grid-snake-dark.svg)
