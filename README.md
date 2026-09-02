@@ -5,10 +5,6 @@ I'm currently working on my own projects and exploring new technologies.<br><br>
 ![](https://streak-stats.demolab.com/?user=mustafabinguldev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafabinguldev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ 
+"The happiness of your life depends upon the quality of your thoughts." Marcus Aurelius
 
----
-[![](https://komarev.com/ghpvc/?username=mustafabinguldev&icon=3&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
