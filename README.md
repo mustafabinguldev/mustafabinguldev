@@ -14,9 +14,6 @@ I'm currently working on my own projects and exploring new technologies.<br><br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mustafabinguldev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=mustafabinguldev&icon=3&color=2)](https://visitcount.itsvg.in)
 
